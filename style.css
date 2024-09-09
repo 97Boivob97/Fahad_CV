@@ -45,7 +45,16 @@ h1,h2,h3{
     cursor:pointer;
     text-decoration: underline;
     color:blue;
-    
+}
+.projects a {
+    text-decoration: none;
+    color:black;
+    font-weight: bolder;
+}
+.projects a:hover{
+    cursor:pointer;
+    text-decoration: underline;
+    color:blue;
 }
 .div-clear{
     clear:both;
